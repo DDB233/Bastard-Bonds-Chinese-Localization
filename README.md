@@ -29,7 +29,7 @@
 如有任何版权或使用问题，请联系我进行相应处理。
 
 ## 预览
-![1](https://pic1.imgdb.cn/item/69c937cbe4fb544c99ba8c44.jpg)
+![](images/1.jpg)
 
 ## 工具
 
