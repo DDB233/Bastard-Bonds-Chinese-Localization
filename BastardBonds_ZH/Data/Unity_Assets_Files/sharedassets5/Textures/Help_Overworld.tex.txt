@@ -1,0 +1,21 @@
+WASD Pan Camera
+
+PGUP/PGDN Mousewheel
+
+Zoom Camera
+
+Click on a linked area to move there.
+
+Secure a hostile area by fully exploring the layout and eliminating all creatures. Once you've secured an area, new travel and stronghold options may become available!
+
+Some areas can only be secured under special conditions, however, and others not at all, so if you think you've hit a wall, you might try to find a different way around!
+
+If party members are injured or incapacitated, it may be best to make for an exit, then come back to finish securing it later! You won't get as muck experience this way, but fighting shorthanded can lead to tragedy, not to mention overfilled backpacks.
+
+Secured areas will become dangerous again if you leave them alone long enough! You can revisit these areas to level up weak bandmates, look for rare ransom or recruits, give injured bandmates time to recover, or give merchants time to set up in your stronghold.
+
+Your progress will be recorded each time you enter an area, so you will always be able
+
+to retry from the area entrance if the worst should happen!
+
+
