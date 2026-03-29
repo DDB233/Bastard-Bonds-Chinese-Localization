@@ -28,6 +28,9 @@
 原版本为日语化工具，现在进行了适度的调整以适配中文本地化。  
 如有任何版权或使用问题，请联系我进行相应处理。
 
+## 预览
+![](https://pic1.imgdb.cn/item/69c937cbe4fb544c99ba8c44.jpg)
+
 ## 工具
 
    可能用到的工具类：[lzy](https://ddblz.lanzoub.com/b019vrtcxe)   
