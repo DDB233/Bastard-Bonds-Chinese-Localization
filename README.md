@@ -3,11 +3,12 @@
 这个工具集用于将Bastard Bonds游戏进行简体中文化处理。
 
 **注意**
-1、内置中文文本，使用AI翻译
-2、存在BUG，部分翻译文本没有正确的显示
-3、图片内文本未翻译，详见Data\Unity_Assets_Files
 
-抛砖引玉，希望有更厉害的大佬制作出更好的简中翻译
+1. 内置中文文本，使用AI翻译  
+2. 存在BUG，部分翻译文本没有正确的显示  
+3. 图片内文本未翻译，详见Data\Unity_Assets_Files
+
+> 抛砖引玉，希望有更厉害的大佬制作出更好的简中翻译
 
 
 ## 致谢与来源
@@ -34,9 +35,9 @@
 
 
 ## 使用方法
-   1、在游戏根目录（BB.exe所在的地方）放置BastardBonds_ZH文件夹
-   2、UnityEX.exe置入UnityEX文件夹
-   3、运行0_一键本地化.bat
+1. 在游戏根目录（BB.exe所在的地方）放置BastardBonds_ZH文件夹
+2. UnityEX.exe置入UnityEX文件夹
+3. 运行0_一键本地化.bat
 
 
 
